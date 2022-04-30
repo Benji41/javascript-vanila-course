@@ -1,0 +1,13 @@
+el dns es el nombre del dominio google
+la extension es .com o .es
+puedes utilizar domainscope y buscar en google trends palabras que se buscan mas para generar un nombre de dominio mas popular
+
+
+Operador de precedencia
+https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Operators/Operator_Precedence
+
+expression
+stores a value exp. 4+5 , (41 === {'41'})
+statement
+if(expression)
+console.log(`algo ${aqui javascript espera una expression}`)
